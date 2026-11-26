@@ -2,6 +2,10 @@
 
 An end-to-end machine learning dynamic pricing simulator built with **XGBoost** and **Streamlit** that models price elasticity, competitor gaps, inventory constraints, and promotional lift to compute revenue-maximizing prices in real time.
 
+🔴 **Live Interactive App:** [Launch PricePulse on Streamlit Cloud](https://pricepulse-dynamic-pricing.streamlit.app/)
+
+---
+
 ## 🚀 Key Results & Benchmarks
 - **Test MAE:** `4.80 units` (Target: < 8.0)
 - **Test R² Score:** `0.9803`
